@@ -1,0 +1,26 @@
+/*NAV DROPDOWN*/
+#forum-select-menu .forum-select-options
+{
+    background: #46566B !important;
+}
+  
+/*PROFILE DROPDOWN*/
+.ui-header-fixed ul.menu a, 
+.ui-header-fixed ul.menu li 
+{
+    background:#46566B !important;
+    color:#FFF !important;
+    border:none !important;
+}
+  
+.ui-header-fixed ul.menu li 
+{
+    border-top: 1px solid #313D4D !important;
+}
+  
+.ui-header-fixed ul.menu a:hover, 
+.ui-header-fixed ul.menu li:hover 
+{
+    background: #5A6A7F !important;
+    color:#FFF !important;
+}

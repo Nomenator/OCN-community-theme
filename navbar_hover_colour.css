@@ -1,0 +1,9 @@
+.ui-header-fixed ul#main-nav li.forums a.form-select-link-expanded,
+.ui-header-fixed ul#main-nav li.forums a:hover,
+.ui-header-fixed ul#main-nav .mainNav-rootLink:hover,
+.ui-header-fixed ul#main-nav.forums-tab li.forums a:hover,
+.ui-header-fixed li.profile:hover .user-avatar,
+.ui-header-fixed ul#main-nav .search:hover>a::before 
+{
+    background-color: #5A6A7F!important;
+}

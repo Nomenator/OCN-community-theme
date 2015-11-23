@@ -1,0 +1,70 @@
+.ui-header-fixed 
+{
+    background: rgba(70, 86, 107, .74)!important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.ui-header-fixed ul#main-nav .mainNav-logoLink,
+.ui-header-fixed ul#main-nav .mainNav-logoLink:focus,
+.ui-header-fixed ul#main-nav .mainNav-logoLink:hover
+{
+    background-color: transparent!important;
+}
+
+.ui-header-fixed ul#main-nav.forums-tab li.forums a 
+{
+    background-color: transparent!important;
+}
+
+.forum-77 .ui-header-fixed ul#main-nav li.gaming a,
+.forum-78 .ui-header-fixed ul#main-nav li.gaming a,
+.forum-79 .ui-header-fixed ul#main-nav li.gaming a,
+.forum-80 .ui-header-fixed ul#main-nav li.gaming a,
+.forum-82 .ui-header-fixed ul#main-nav li.gaming a,
+.forum-152 .ui-header-fixed ul#main-nav li.gaming a,
+.forum-149 .ui-header-fixed ul#main-nav li.news a,
+.forum-225 .ui-header-fixed ul#main-nav li.news a,
+.forum-226 .ui-header-fixed ul#main-nav li.news a,
+.forum-227 .ui-header-fixed ul#main-nav li.news a,
+.forum-349 .ui-header-fixed ul#main-nav li.news a,
+.forum-379 .ui-header-fixed ul#main-nav li.news a,
+.ui-header-fixed ul#main-nav.section-lists li.rigbuilder a,
+.ui-header-fixed ul#main-nav.product-tab li.reviews a 
+{
+    background-color: transparent !important;
+}
+
+body .btn,
+body .forum-control .reply-btn,
+body a.priact,
+body .form_actions .accented_primary_cta,
+body .form_actions .primary_cta:first-child 
+{
+    background-color: #46566B !important;
+    border-radius: 0;
+    color: #fff !important;
+    font-weight: normal !important;
+}
+
+.btn-cont a:hover,
+body a.priact:hover,
+body a.priact:focus,
+body .form_actions .accented_primary_cta:hover,
+body .form_actions .accented_primary_cta:focus,
+body .form_actions .primary_cta:first-child:hover,
+body .form_actions .primary_cta:first-child:focus,
+.form_actions .buttons-right .btn:hover 
+{
+    background-color: #46566B !important;
+    border: 1px solid transparent!important;
+}
+
+.ibtn.io 
+{
+    border-width: 4px 3px!important;
+    border-color: #46566B!important;
+}
+
+*:focus::-moz-focus-inner {
+    border:1px dotted white;
+}
